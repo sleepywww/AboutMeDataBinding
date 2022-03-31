@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Yap Jun Jia</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Yap Jun Jia.
+        \n\nI like gaming.
+        \n\nThe kind of game that I play is on mobile platform or PC platform.
+        \nFun fact is that I also like console games on PS4, PS5 and Nintendo Switch but I have non of them.
+        \n\nI like playing games with my friends like GTA V, Monster Hunter, Warframe and more.
+        \nAnd most of the time I will have voice call with them.
+        \nAnd even less sometimes, I will stream some games which they might not own.
+        \nOnce, when I was still in secondary school, I even watch a few e-sport contest about MOBA and competitive games.
+        \n\nI\'ll be happy to find some time to play games together if you are interested with it.
+        \nYou should ask someone else about gaming, though.\n\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
